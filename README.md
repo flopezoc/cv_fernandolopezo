@@ -1,1 +1,2 @@
-https://github.com/flopezoc/cv_fernandolopezo
+https://roadmap.sh/projects/single-page-cv
+
